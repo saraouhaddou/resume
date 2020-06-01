@@ -1,11 +1,11 @@
 {
-    "name": "so_web_trial",
-    "short_name": "so_web_trial",
+    "name": "Sara Ouhaddou",
+    "short_name": "Sara Ouhaddou",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Sara Ouhaddou portfolio and resume - Work in progress",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
